@@ -1,0 +1,13 @@
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\bin\Debug\Sample.exe
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\bin\Debug\Sample.pdb
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\bin\Debug\USGS.dll
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\bin\Debug\USGS.pdb
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\obj\x86\Debug\Sample.csprojAssemblyReference.cache
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\obj\x86\Debug\Sample.Properties.Resources.resources
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\obj\x86\Debug\Sample.Sample.resources
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\obj\x86\Debug\Sample.csproj.GenerateResource.cache
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\obj\x86\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\obj\x86\Debug\Sample.csproj.CopyComplete
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\obj\x86\Debug\Sample.exe
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\obj\x86\Debug\Sample.pdb
+C:\Users\NguyenCong\Desktop\Working\dem\Sample\obj\x86\Debug\Sample.Form1.resources

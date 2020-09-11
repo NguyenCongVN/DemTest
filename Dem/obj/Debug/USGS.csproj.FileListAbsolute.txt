@@ -1,0 +1,6 @@
+C:\Users\NguyenCong\Desktop\Working\dem\Dem\bin\Debug\USGS.dll
+C:\Users\NguyenCong\Desktop\Working\dem\Dem\bin\Debug\USGS.pdb
+C:\Users\NguyenCong\Desktop\Working\dem\Dem\obj\Debug\USGS.csprojAssemblyReference.cache
+C:\Users\NguyenCong\Desktop\Working\dem\Dem\obj\Debug\USGS.csproj.CoreCompileInputs.cache
+C:\Users\NguyenCong\Desktop\Working\dem\Dem\obj\Debug\USGS.dll
+C:\Users\NguyenCong\Desktop\Working\dem\Dem\obj\Debug\USGS.pdb
